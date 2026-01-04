@@ -90,6 +90,10 @@ Assertions validate expected behavior
 
 TestNG manages execution lifecycle
 
+<img width="1440" height="406" alt="Screenshot 2026-01-05 002432" src="https://github.com/user-attachments/assets/71b0ae78-e91f-41e7-a08e-82486f9140bb" />
+<img width="1439" height="401" alt="Screenshot 2026-01-05 002418" src="https://github.com/user-attachments/assets/c850b4c9-b929-41f5-9d0b-319ef0dd35f6" />
+
+
 🧠 Key Concepts Used
 
 Mobile automation with Appium
